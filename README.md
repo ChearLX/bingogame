@@ -1,5 +1,5 @@
 # Bingo Bame
-This module is designed for implementation in CPLD modules. by CADcom from SKEL 4273 UTM, supervised by AP. Muhammad Mun`im Ahmad Zabidi
+This module is designed for implementation in CPLD modules. by CADBest from SKEL 4273 UTM, supervised by AP. Muhammad Mun`im Ahmad Zabidi
 
 What is Bingo Game?
 
