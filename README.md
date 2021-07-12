@@ -12,7 +12,13 @@ There are 3 major states for this game:
 3.	Checking State. The system will compare the input with the random number generated. If the input not equal to the random number generated, the system will jump back to state 2 and the games continues on. If the input is the same as the random number generated, the system will jump to state 1 and the games end.
 
 # Output Simulation
+
+From edaplayground
 ![image](https://user-images.githubusercontent.com/87294236/125234475-6860f300-e313-11eb-9977-854b71a607c2.png)
+
+From quartus
+![image](https://user-images.githubusercontent.com/87294236/125240044-225c5d00-e31c-11eb-82ff-a34732b0fba3.png)
+
 
 # Rtl-ASM chart
 
