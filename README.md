@@ -16,9 +16,6 @@ There are 3 major states for this game:
 From edaplayground
 ![image](https://user-images.githubusercontent.com/87294236/125234475-6860f300-e313-11eb-9977-854b71a607c2.png)
 
-From quartus
-![image](https://user-images.githubusercontent.com/87294236/125240044-225c5d00-e31c-11eb-82ff-a34732b0fba3.png)
-
 
 # Rtl-ASM chart
 
